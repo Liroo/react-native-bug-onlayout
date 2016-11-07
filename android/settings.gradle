@@ -1,0 +1,3 @@
+rootProject.name = 'wrapped_height'
+
+include ':app'
